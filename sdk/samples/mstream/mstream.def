@@ -1,8 +1,0 @@
-NAME            MSTREAM
-
-DESCRIPTION     'midiStream Conversion/Playback Example'
-
-EXPORTS
-        DLG_About
-        MainWindowProc
-        MidiProc

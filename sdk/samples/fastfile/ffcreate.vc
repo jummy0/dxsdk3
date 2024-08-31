@@ -1,2 +1,0 @@
-MAKENAME = ffcrmsvc.mk
-!include ..\msbld.mk
